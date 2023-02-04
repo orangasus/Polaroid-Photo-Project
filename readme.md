@@ -8,8 +8,8 @@ This Python script uses basic OOP and Pillow image processing to transform an or
 <br />  
 *Here is an example*
 <p float="right">
-  <img src="./Images/Back%20To%20Grime.jpg/" width="450" />
-  <img src="./editedImages/Back%20To%20Grime_edit.jpg" width="450" /> 
+  <kbd><img src="./Images/Back%20To%20Grime.jpg/" width="400" /></kbd>
+  <kbd><img src="./editedImages/Back%20To%20Grime_edit.jpg" width="400" /></kbd> 
 </p>
 <br />  
 
