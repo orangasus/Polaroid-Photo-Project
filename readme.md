@@ -1,8 +1,6 @@
 # Photo to Polaroid Format
-
-**Disclaimer: This is a study project. I built it in order to learn Python and get familiar with [Pillow Library](https://pillow.readthedocs.io/en/stable/ "Pillow library")**
 <br />  
-<br />
+
 ## Project Description
 This Python script uses basic OOP and Pillow image processing to transform an ordinary image into its polaroid variant. 
 <br />  
